@@ -10,3 +10,6 @@ I also look forward to getting into machine learning, reinforcement learning and
 If you want to get in touch with me, feel free to check out my projects and send me a message. 
 
 ![Richard's Github Stats](https://github-readme-stats-six-gilt-21.vercel.app/api?username=richardliuu&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true&include_all_commits=true&theme=blue-green)<br>
+
+![](https://nirzak-streak-stats.vercel.app/?user=richardliuu&theme=blue-green&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=richardliuu&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
