@@ -11,6 +11,7 @@ If you want to get in touch with me, feel free to check out my projects and send
 
 # Socials
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:richardliuu200127@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richard-liu-37b70232a/)
 
 # GitHub Profile Card
 ![Richard's Github Stats](https://github-readme-stats-six-gilt-21.vercel.app/api?username=richardliuu&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true&include_all_commits=true&theme=blue-green)<br>
